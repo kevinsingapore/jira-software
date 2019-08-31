@@ -1,2 +1,4 @@
 # jira-software
-jira-software:8.3.1
+> version:jira-software:8.3.1
+> 
+> 预先安装好docker环境；
